@@ -254,7 +254,7 @@ Next Frame
 
 # Author
 
-**Kanna Sharvan**
+**P.Santhosh**
 
 MCA Student
 
